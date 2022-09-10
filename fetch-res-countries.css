@@ -1,0 +1,17 @@
+
+.card{
+    background: linear-gradient(to right, rgb(214, 211, 211), gray);
+   
+    margin: 10px 0px;
+    text-align: center; 
+    overflow:hidden; 
+    
+    
+}
+.card-header{
+    background-color: rgb(20, 19, 19);
+    color: aliceblue;
+    font-size: 40px;
+    margin: 1px 1px;
+   padding:10px 30px
+}
